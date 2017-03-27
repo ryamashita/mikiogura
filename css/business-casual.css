@@ -5,7 +5,7 @@
  */
 
 body {
-    font-family: Bodoni serif;
+    font-family: 'Hiragino Mincho Pro' Bodoni serif;
     background: no-repeat center center fixed;
 
     -webkit-background-size: cover;
@@ -101,6 +101,14 @@ hr {
 .img-left {
     float: none;
     margin: 0 auto 0;
+}
+
+.font-mincho {
+    font-family: 'Hiragino Mincho Pro' !important;
+}
+
+.font-bodoni {
+    font-family: Bodoni !important;
 }
 
 footer {
