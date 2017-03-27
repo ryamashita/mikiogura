@@ -190,6 +190,10 @@ footer p {
         table-layout: fixed;
         font-size: 1.25em;
     }
+
+    .paddingzero {
+        padding: 0px !important;
+    }
 }
 
 @media screen and (min-width:1200px) {
