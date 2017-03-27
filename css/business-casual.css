@@ -103,6 +103,10 @@ hr {
     margin: 0 auto 0;
 }
 
+.text-mincho {
+    font-family: 'Hiragino Mincho Pro' !important;
+}
+
 footer {
     background: #fff;
     background: rgba(255,255,255,0.9);
